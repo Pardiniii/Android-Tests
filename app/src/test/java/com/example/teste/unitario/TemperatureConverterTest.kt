@@ -1,5 +1,6 @@
-package com.example.teste
+package com.example.teste.unitario
 
+import com.example.teste.TemperatureConverter
 import org.junit.Test
 import org.junit.Assert.assertEquals
 

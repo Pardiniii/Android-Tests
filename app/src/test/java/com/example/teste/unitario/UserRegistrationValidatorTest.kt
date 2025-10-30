@@ -1,5 +1,6 @@
-package com.example.teste
+package com.example.teste.unitario
 
+import com.example.teste.UserRegistrationValidator
 import kotlin.test.Test
 import kotlin.test.assertEquals
 

@@ -1,5 +1,6 @@
-package com.example.teste
+package com.example.teste.unitario
 
+import com.example.teste.CpfValidator
 import org.junit.Test
 import kotlin.test.assertEquals
 
